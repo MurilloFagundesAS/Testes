@@ -3,5 +3,3 @@ Esse é o teste 1 com git/github
 Mudando o arquivo todo aqui
 
 Testando o diff
-
-Caralho!!!!!!!!
